@@ -1,0 +1,10 @@
+developed react core concepts.
+1) Working with components
+2) Transferring data to down tree using props
+3) Transferring Data to parent using function i.e passing pointer
+4) handling with component whch can be use for similar design purpose
+5) ErrodModel component to handle popup.
+5) Working with react state.
+6) Rendering component based on certain condition.
+7) creating module.css to call classes and id dynamically
+8)Adding form Validations
