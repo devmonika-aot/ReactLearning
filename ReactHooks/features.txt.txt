@@ -1,0 +1,21 @@
+01-starting-project :
+	1) Concept of React Hooks like useEffect(), useReducer(), useRef(), useContext()
+	2) Implement the login concept. If user logged in and after refreshing It should be logged in only.
+	3) created Custom Button and Card.
+
+foodorderapp:
+	1) Adding SVG images
+	2) Making Custom Input field
+	3) React Portal for dialog box and popup.
+	4) handling useContext() with useState()
+	5) Implement Backdrop and Overlays for dialog box.
+
+
+
+
+
+
+
+
+
+
